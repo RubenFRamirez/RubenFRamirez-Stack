@@ -12,7 +12,7 @@ public class StackImplementationExerciseTest {
         se = new Lab();
     }
     /**
-     * A newly instantiated Stack should not be null.
+     * A newly  instantiated Stack should not be null.
      */
     @Test
     public void createStackTest(){
